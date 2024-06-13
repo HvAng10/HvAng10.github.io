@@ -1,3 +1,4 @@
+https://hvang10.github.io/about/index.html
 https://hvang10.github.io/link/index.html
 https://hvang10.github.io/2024/06/02/LitCTF2024/
 https://hvang10.github.io/2024/02/14/Noting_Something_About_Me/
@@ -14,5 +15,4 @@ https://hvang10.github.io/2023/11/30/Geek-Challenge-2023wp/
 https://hvang10.github.io/2023/11/30/ISCTF2023wp/
 https://hvang10.github.io/2024/03/16/NSSCTF-Round-19-Basic-Crypto%E4%B8%93%E5%9C%BA/
 https://hvang10.github.io/2024/03/16/VenomCTF2024wp/
-https://hvang10.github.io/about/index.html
 https://hvang10.github.io/
