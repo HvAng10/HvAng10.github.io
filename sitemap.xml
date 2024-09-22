@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hvang10.github.io/link/index.html</loc>
+    
+    <lastmod>2024-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hvang10.github.io/2024/09/07/CNSS-Recruit-2024-WriteUp/</loc>
     
     <lastmod>2024-09-22</lastmod>
@@ -95,15 +104,6 @@
     <loc>https://hvang10.github.io/2024/07/13/OSCTF2024/</loc>
     
     <lastmod>2024-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hvang10.github.io/link/index.html</loc>
-    
-    <lastmod>2024-07-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
