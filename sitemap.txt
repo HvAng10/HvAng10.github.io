@@ -1,6 +1,7 @@
+https://hvang10.github.io/2024/10/31/MoeCTF2024-WriteUp/
+https://hvang10.github.io/2025/10/01/CNSS-Recruit2025-Crypto-WriteUp/
 https://hvang10.github.io/2025/10/13/%E7%BE%8A%E5%9F%8E%E6%9D%AF2025-WriteUp/
 https://hvang10.github.io/2025/08/26/CNSS-Summer2025-Crypto-WriteUp/
-https://hvang10.github.io/2025/10/01/CNSS-Recruit2025-Crypto-WriteUp/
 https://hvang10.github.io/2025/10/07/Securinets-CTF2025-Misc-WriteUp/
 https://hvang10.github.io/2024/02/14/Noting_Something_About_Me/
 https://hvang10.github.io/2025/09/21/WMCTF2025-WriteUp/
@@ -28,7 +29,6 @@ https://hvang10.github.io/2024/10/10/cnss-recruit-2024/
 https://hvang10.github.io/2024/07/08/DownUnderCTF2024/
 https://hvang10.github.io/2023/11/30/FSCTF2023wp/
 https://hvang10.github.io/2024/11/04/%E7%BD%91%E9%BC%8E%E6%9D%AF2024%E9%9D%92%E9%BE%99%E7%BB%84&&%E5%BC%BA%E7%BD%91%E6%9D%AF2024-WriteUp/
-https://hvang10.github.io/2024/10/31/MoeCTF2024-WriteUp/
 https://hvang10.github.io/link/index.html
 https://hvang10.github.io/2024/06/23/WaniCTF2024/
 https://hvang10.github.io/2024/08/29/%E7%BE%8A%E5%9F%8E%E6%9D%AF2024wp/
